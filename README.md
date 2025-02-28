@@ -87,7 +87,7 @@ This system allows customers to:
 ---
 
 ## 🔗 Live Demo
-🚀 Check out the live demo: [Online Newspaper System]([https://your-live-demo-link.com](https://kavyasree14.github.io/Online-Newspaper-Delivery-Management-System/))
+🚀 Check out the live demo: [Online Newspaper System](https://kavyasree14.github.io/Online-Newspaper-Delivery-Management-System/)
 
 ---
 
