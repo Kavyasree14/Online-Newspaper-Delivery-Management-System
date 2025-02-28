@@ -108,3 +108,170 @@ If you have any questions, feel free to reach out!
 
 📌 **Note:** This project is for academic purposes and may require enhancements for production use. Contributions are welcome! 🎉
 
+
+
+
+
+
+
+
+
+Here's a well-structured **README** file for your **Online Newspaper Delivery Management System** GitHub repository:
+
+---
+
+# 📖 Online Newspaper Delivery Management System
+
+## 🚀 WT Case Study by Team-04, 3B17
+
+### 👥 Team Members:
+- **P. Kavya Sree** (Roll number: 06)
+- **N. Sreekar Prasad Reddy** (Roll number: 12)
+- **K. Manohar** (Roll number: 18)
+- **K. Sai Lalitha** (Roll number: 24)
+- **G. Jayanth** (Roll number: 41)
+
+---
+
+## 📌 Introduction
+
+Newspapers have played a crucial role in shaping public opinion and spreading awareness. Traditionally, newspaper distribution has been handled manually by delivery workers, vendors, and agents. Our **Online Newspaper Delivery Management System** replaces the manual distribution process with an efficient digital platform.
+
+This system allows customers to:
+- Register and log in.
+- View and subscribe to their favorite newspapers.
+- Pay monthly subscriptions online.
+- Provide feedback on the service.
+
+---
+
+## 🔥 Features
+
+### ✅ **Customer Features**
+- **User Registration:** Customers must register to obtain login credentials.
+- **Login System:** Secure login using username and password.
+- **Newspaper Viewing:** Browse and read newspapers online.
+- **Subscription Management:** Subscribe to preferred newspapers.
+- **Payment Integration:** Pay monthly bills securely.
+- **Feedback System:** Registered users can provide feedback to improve the system.
+
+### ✅ **Admin Features**
+- **Newspaper Management:** Add, update, or remove newspapers.
+- **Billing System:** Track customer payments and generate bills.
+- **User Management:** View and manage registered customers.
+
+---
+
+## 📌 Advantages
+
+- 🏆 **Easy to Use:** Simplifies newspaper distribution for vendors and customers.
+- ⏳ **Time-Saving:** Eliminates the need for manual newspaper distribution.
+- 💳 **Secure Payments:** Customers can subscribe and pay online hassle-free.
+
+## ⚠️ Limitations
+
+- 📌 **Data Accuracy:** Users must enter accurate details to ensure smooth functionality.
+- 🌐 **Internet Dependency:** Requires an active internet connection for access.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** PHP, MySQL
+- **Database:** MySQL
+- **Payment Integration:** PayPal, Credit Card, GPay
+
+---
+
+## 📷 Screenshots
+
+| Homepage | Subscription Page |
+|----------|------------------|
+| ![Homepage](<img width="1512" alt="Screenshot 2025-02-27 at 4 54 48 PM" src="https://github.com/user-attachments/assets/ba1260b5-e7e9-4ec7-9cfb-e0338898af42" />)| ![Subscription](<img width="1511" alt="Screenshot 2025-02-27 at 4 55 53 PM" src="https://github.com/user-attachments/assets/f9d65d0f-0139-4d1a-950e-bab1ec506baf" />)|
+
+---
+
+## 🏗️ Installation Guide
+
+1️⃣ **Clone the repository**
+```bash
+git clone https://github.com/your-repo/Online-Newspaper-Delivery.git
+```
+
+2️⃣ **Navigate to the project directory**
+```bash
+cd Online-Newspaper-Delivery
+```
+
+3️⃣ **Set up a local server**
+- Install **XAMPP** or **WAMP** to run PHP and MySQL.
+- Move the project folder to the `htdocs` directory (if using XAMPP).
+
+4️⃣ **Import the database**
+- Open **phpMyAdmin**.
+- Create a new database: `newspaper_db`.
+- Import `database.sql` from the project.
+
+5️⃣ **Run the project**
+- Start Apache and MySQL services in **XAMPP/WAMP**.
+- Open a browser and go to:
+  ```
+  http://localhost/Online-Newspaper-Delivery
+  ```
+
+---
+
+## 📜 Usage
+
+1️⃣ **Register/Login**  
+   - Customers must create an account to access features.
+
+2️⃣ **Subscribe to Newspapers**  
+   - Users can choose from multiple available newspapers.
+
+3️⃣ **Make Payments**  
+   - Payments can be made via Credit Card, PayPal, or GPay.
+
+4️⃣ **Read Newspapers Online**  
+   - Users can browse and read their subscribed newspapers.
+
+5️⃣ **Provide Feedback**  
+   - Customers can submit feedback to improve the platform.
+
+---
+
+## 🔗 Live Demo
+🚀 Check out the live demo: [Online Newspaper System](https://your-live-demo-link.com)
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions! To contribute:
+
+1. Fork the repository.
+2. Create a new branch (`feature-branch`).
+3. Commit your changes (`git commit -m "Added feature"`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a **Pull Request**.
+
+---
+
+## 📝 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## 📧 Contact
+
+For any queries, reach out to **Team-04**:
+
+📩 **Email:** team04@example.com  
+🌐 **GitHub:** [GitHub Repo](https://github.com/your-repo)
+
+---
+
+This **README.md** is ready to be added to your GitHub repository! 🚀 🎉
+
