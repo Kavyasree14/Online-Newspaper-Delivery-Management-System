@@ -188,7 +188,7 @@ This system allows customers to:
 
 | Homepage | Subscription Page |
 |----------|------------------|
-| ![Homepage](<img width="1512" alt="Screenshot 2025-02-27 at 4 54 48 PM" src="https://github.com/user-attachments/assets/ba1260b5-e7e9-4ec7-9cfb-e0338898af42" />)| ![Subscription](<img width="1511" alt="Screenshot 2025-02-27 at 4 55 53 PM" src="https://github.com/user-attachments/assets/f9d65d0f-0139-4d1a-950e-bab1ec506baf" />)|
+| ![Homepage](Homepage.png)| ![Subscription](Subscription.png)|
 
 ---
 
